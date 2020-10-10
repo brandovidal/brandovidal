@@ -1,5 +1,5 @@
 <h2> Hi, I'm Brando Vidal 👋</h2>
-<img align='right' src="https://ik.imagekit.io/demoxd/brandovidal_zjS2IVDjm.jpeg" width="150">
+<img align='right' src="https://user-images.githubusercontent.com/65886822/95666568-84cfc500-0b20-11eb-9036-e11af47eaa0b.jpeg" width="150">
 <p><em>Software Developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p>
 
 [![Twitter: Brando Vidal](https://img.shields.io/twitter/follow/brandovidal_?label=Follow)](https://bit.ly/brandovidal-twitter)
