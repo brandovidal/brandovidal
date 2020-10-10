@@ -6,7 +6,7 @@
 [![GitHub Brando Vidal](https://img.shields.io/github/followers/brandovidal?label=follow&style=social)](https://bit.ly/brandovidal-github)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const brandovidal = {
