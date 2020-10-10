@@ -22,4 +22,4 @@ const brandovidal = {
 
 ---
 
-⭐️ From [@brandovidal_](bit.ly/brandovidal-github)
+⭐️ From [@brandovidal](https://bit.ly/brandovidal-github)
