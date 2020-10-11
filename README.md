@@ -5,14 +5,13 @@
 [![Twitter: Brando Vidal](https://img.shields.io/twitter/follow/brandovidal_?label=Follow)](https://bit.ly/brandovidal-twitter)
 [![GitHub Brando Vidal](https://img.shields.io/github/followers/brandovidal?label=follow&style=social)](https://bit.ly/brandovidal-github)
 
-
 ### <img src="https://media.giphy.com/media/CqVNwrLt9KEDK/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const brandovidal = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Kotlin, C#],
-  tools: [React, Redux, Node, Storybook, Docker],
+  tools: [React, Redux, Node, Storybook, Docker, NGINX, GIT],
   architecture: ["event-driven", "design system pattern"],
   challenge: "I am doing the #100DaysOfCode challenge focused on React, Docker and Figma"
 }
