@@ -2,7 +2,7 @@
 <img align='right' src="https://user-images.githubusercontent.com/65886822/125829241-3a2e8f82-ae6d-4d2c-8c82-c2fa8e024bc2.jpg" width="150">
 <p><em>Software Developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p>
 
-[![Twitter: Brando Vidal](https://img.shields.io/twitter/follow/brandovidal_?label=Follow)](https://bit.ly/brando-vidal-twitter)
+[![Twitter: Brando Vidal](https://img.shields.io/twitter/follow/_brandovidal?label=Follow)](https://bit.ly/brando-vidal-twitter)
 [![GitHub Brando Vidal](https://img.shields.io/github/followers/brandovidal?label=follow&style=social)](https://bit.ly/brando-vidal-github)
 
 ### <img src="https://media.giphy.com/media/CqVNwrLt9KEDK/giphy.gif" width="50"> A little more about me...  
